@@ -10,11 +10,11 @@ Selenium is a popular open-source testing tool widely used for automating web br
 TestNG is a testing framework for Java that is designed to be more flexible and powerful than JUnit. It supports a wide range of testing functionalities, including unit, integration, and end-to-end testing, as well as parallel execution, data-driven testing, and reporting. TestNG is often used with Selenium to create robust and scalable test automation frameworks.
 
 ## Technology used:
-Selenium Webdriver
-TestNG Framework
-Java
-Maven
-Eclipse
+* Selenium Webdriver
+* TestNG Framework
+* Java
+* Maven
+* Eclipse
 
 ## Scenerios :
 Login to orange hrm demo site: https://opensource-demo.orangehrmlive.com/
