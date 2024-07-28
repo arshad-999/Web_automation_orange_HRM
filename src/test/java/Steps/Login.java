@@ -7,8 +7,7 @@ import io.cucumber.java.en.When;
 public class Login {
 	@Given("user is on login page")
 	public void user_is_on_login_page() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	   
 	}
 
 	@When("user enter wrong {string} and {string}")
