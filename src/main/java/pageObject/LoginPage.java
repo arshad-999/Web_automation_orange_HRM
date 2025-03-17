@@ -31,7 +31,7 @@ public class LoginPage {
 		pass.sendKeys(password);
 	}
 	public void ClickOnLogin() {
-		login.click();
+		login.click();;;
 	}
 	
 	
